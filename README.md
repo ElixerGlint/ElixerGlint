@@ -7,4 +7,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ElixerGlint&theme=tokyonight&hide_border=false)<br/>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ElixerGlint&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElixerGlint&langs_count=5&theme=tokyonight)]()
-[![trophy](https://github-profile-trophy.vercel.app/?username=ElixerGlint&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ElixerGlint&margin-w=8&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
