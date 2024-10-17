@@ -9,9 +9,6 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ElixerGlint&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElixerGlint&langs_count=5&theme=tokyonight)]()
-
-
-![](https://github-readme-stats.vercel.app/api?username=ElixerGlint&theme=light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ElixerGlint&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ElixerGlint&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
