@@ -9,3 +9,4 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElixerGlint&langs_count=5&theme=ambient_gradient)]()<br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ElixerGlint&margin-w=8&theme=ambient_gradient)](https://github.com/ryo-ma/github-profile-trophy)<br/>
 
+![Snake animation](https://raw.githubusercontent.com/ElixerGlint/ElixerGlint/output/github-contribution-grid-snake-dark.svg)
