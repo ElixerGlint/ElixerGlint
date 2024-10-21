@@ -1,5 +1,5 @@
 - Hi, I’m @ElixerGlint
-- I’m interested in Physics and Programming
+- I’m interested in Physics and Programming!
 - I’m currently learning to use Java with HTML
 - How to reach me: everett.rumery@gmail.com
 - Fun fact: I have two cats
