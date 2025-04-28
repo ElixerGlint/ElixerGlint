@@ -1,7 +1,8 @@
 - Hi, I’m @ElixerGlint!
 - I’m interested in Physics and Programming!
 - I’m currently learning to use Java with HTML (for web development)
-- I can code in Java and C++ fluently
+- I can code in Java fluently
+- I learned C++ but im getting rusty
 - How to reach me: everett.rumery@gmail.com
 - I love my cats
 <br><br>
